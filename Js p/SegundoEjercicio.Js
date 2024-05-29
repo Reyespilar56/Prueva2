@@ -3,6 +3,7 @@ function test (){
     var b ="8";
 
 
+    
 
     var c = a;
     a=c;
