@@ -1,0 +1,40 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+/*h2{
+  color: aqua;
+  font-size: 60px;
+}*/
+#prueva{ /* se puede tomar solo el ID de la etiqueta para realizar el cambio*/
+  color: rgb(84, 19, 236);
+  font-size: 50px;
+}
+/* Write your CSS below, don't change the rules above. */
+p
+{
+color: brown;
+}
+
+.note /*clases es mejor trabajar con clases*/
+{
+/*color: fuchsia;*/
+font-size: 40px;
+}
+
+#id-selector-demo{
+  color: green;
+}
+li[value="2"] /*selecionamos el colopr que le quereopsp dar en la lista */
+{
+  color:chartreuse}
+
+li[value="4"]
+{
+  color: blue;
+}
+
+*{
+text-align: center; /* centramos texto */
+}
