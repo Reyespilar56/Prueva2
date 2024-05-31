@@ -1,3 +1,5 @@
+
+
 function test (){
     var a = "3";
     var b ="8";
@@ -10,6 +12,11 @@ function test (){
     b=c;
 
     console.log("a is" + a);
-    console-log("b is"+b);
+    console.log("b is"   +b);
 
 }
+
+/*console.log("Esta es una instrucción.");
+var resultado = 10 + 5;
+saludar("Pedro");*/
+
